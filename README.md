@@ -50,7 +50,7 @@ You can use that data to trigger notifications, build dashboards, automate workf
 
 ## 📺 Live Demo
 
-Watch the video demo here: [YouTube Link Coming Soon!]
+Watch the video demo here: [https://youtu.be/BDALAy-1aug](https://youtu.be/BDALAy-1aug)
 
 ---
 
