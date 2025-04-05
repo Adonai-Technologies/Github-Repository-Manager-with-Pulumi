@@ -1,0 +1,16 @@
+{
+    "name": "StarBoard-GitHub-Stars-Tracker-with-pulumi",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/docker": "^4.6.2",
+        "@pulumi/github": "^6.7.0",
+        "@pulumi/pulumi": "^3.160.0",
+        "axios": "^1.8.4",
+        "body-parser": "^2.2.0",
+        "express": "^5.1.0"
+    }
+}
